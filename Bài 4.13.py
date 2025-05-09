@@ -1,0 +1,5 @@
+print("Phạm Quang Hiệp")
+print("MSSV: 23575202071001")
+print("#####################")
+ds = input("Nhập chuỗi: ")
+print("vị trí của chuỗi abc là", ds.index('abc'))
